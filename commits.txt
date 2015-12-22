@@ -1,0 +1,29 @@
+commit c875c7fac6f2345f0ddee115b05cbd90aeffaa50
+Author: David Tamariz <David.Tamariz@VERIFONE.com>
+Date:   Mon Dec 21 16:16:33 2015 -0600
+
+    Se agrega segunda barra
+
+commit 8d0e2dbb0bf1be92c4fc37de14bd64b09caf977c
+Author: David Tamariz <David.Tamariz@VERIFONE.com>
+Date:   Mon Dec 21 16:14:28 2015 -0600
+
+    Se agrega segundo párrafo
+
+commit b208d1b20c0b98899ee01ecf7c968fbe64eb8ebd
+Author: David Tamariz <David.Tamariz@VERIFONE.com>
+Date:   Mon Dec 21 15:34:35 2015 -0600
+
+    Se agrega barra
+
+commit 569ec7dfaa31498f659907733c396984fdefddac
+Author: David Tamariz <David.Tamariz@VERIFONE.com>
+Date:   Mon Dec 21 15:15:16 2015 -0600
+
+    Se agrega primer párrafo
+
+commit 941b2e25376bd13c39a2e7bf951060f9da92098c
+Author: David Tamariz <David.Tamariz@VERIFONE.com>
+Date:   Mon Dec 21 15:00:30 2015 -0600
+
+    Commit inicial
